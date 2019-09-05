@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/DyeMaker.WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/DyeMaker.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/DyeMaker.WebAPI.csproj",
+        "projectName": "DyeMaker.WebAPI",
+        "projectPath": "/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/DyeMaker.WebAPI.csproj",
+        "packagesPath": "/Users/yuri/.nuget/packages/",
+        "outputPath": "/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/Users/yuri/.asdf/installs/dotnet-core/2.2.401/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yuri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.0.1916590, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

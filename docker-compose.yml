@@ -1,0 +1,31 @@
+version: '3'
+services:
+  db:
+    image: postgres
+    volumes:
+      - ./tmp/db:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+  dye-maker:
+    build:
+      context: ./src/dye_maker
+    command: dotnet run
+    ports:
+      - 8000:8000
+  web:
+    build:
+      context: ./src/puma_app
+    command: bundle exec puma
+    volumes:
+      - ./src/puma_app:/puma_app
+    environment:
+      DYE_MAKER_API_LOCATION: "http://dye-maker:5000/dye"
+      RAILS_MAX_THREADS: 1
+      RAILS_MIN_THREADS: 1
+      PROCESSES: 1
+      DATABASE_POOL_SIZE: 20
+    ports:
+      - 3000:3000
+    depends_on:
+      - db
+      - dye-maker

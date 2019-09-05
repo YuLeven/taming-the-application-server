@@ -1,0 +1,16 @@
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.csprojAssemblyReference.cache
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.csproj.CoreCompileInputs.cache
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.RazorAssemblyInfo.cache
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.RazorAssemblyInfo.cs
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.AssemblyInfoInputs.cache
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.AssemblyInfo.cs
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.deps.json
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.runtimeconfig.json
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.runtimeconfig.dev.json
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.dll
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.pdb
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/bin/Debug/netcoreapp2.2/DyeMaker.WebAPI.xml
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.RazorTargetAssemblyInfo.cache
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.dll
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.xml
+/Users/yuri/taming-the-application-server/src/dye_maker/src/DyeMaker.WebAPI/obj/Debug/netcoreapp2.2/DyeMaker.WebAPI.pdb

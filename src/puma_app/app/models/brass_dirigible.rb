@@ -1,0 +1,2 @@
+class BrassDirigible < ApplicationRecord
+end
